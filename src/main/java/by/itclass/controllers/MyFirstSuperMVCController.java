@@ -12,5 +12,6 @@ public class MyFirstSuperMVCController {
     public String showIndexPage() {
         return "index";
     }
+
 }
 

@@ -52,6 +52,4 @@ public class ParamController {
         session.setAttribute("intParam", intParam);
         return "main";
     }
-
-
 }
